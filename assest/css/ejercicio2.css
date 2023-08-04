@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+div {
+  margin: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  margin: 5px auto;
+  width: 100px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+}
