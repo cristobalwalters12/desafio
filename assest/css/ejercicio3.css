@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+select {
+  margin: 0;
+  width: 50px;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+}
